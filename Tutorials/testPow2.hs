@@ -1,0 +1,1 @@
+testPow2 n = n<0 || pow2 n == 2^n
